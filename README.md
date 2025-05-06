@@ -59,7 +59,7 @@ How variable is the utilization by bike ID?
 
 Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring.
 
-Create one of the following visualizations for city officials:
+#Create one of the following visualizations for city officials:
 
 Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
 
@@ -67,19 +67,19 @@ Advanced: A dynamic map that shows how each station's popularity changes over ti
 
 The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
 
-Create your final presentation:
+#Create your final presentation:
 
-Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+#Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 Ensure your presentation is professional, logical, and visually appealing.
 
-Considerations
+#Considerations
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes.
 
-Assessment
+#Assessment
 Your final product will be assessed on the following metrics:
 
-Analytic Rigor
+#Analytic Rigor
 
 Readability
 
